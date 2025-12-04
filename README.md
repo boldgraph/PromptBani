@@ -91,13 +91,13 @@ You can use PromptBani in two ways:
 
 ### Method 1: Using as a System Prompt (**Best Method**)
 1.  Go to **Google AI Studio** (or any platform with System Prompt capability).
-2.  Copy the **complete PromptBani text**.
+2.  Copy the [**complete PromptBani text**.](https://github.com/boldgraph/PromptBani/blob/main/PromptBani.txt)
 3.  Paste it in the **System Prompt** section.
 4.  Write your request in the text box.
 5.  Receive the optimized prompt.
 
 ### Method 2: Using as a Regular Prompt
-1.  Copy the **complete PromptBani text**.
+1.  Copy the [**complete PromptBani text**.](https://github.com/boldgraph/PromptBani/blob/main/PromptBani.txt)
 2.  In any chat bot (**ChatGPT**, **Claude**, **Gemini**, etc.) paste the prompt in the **first message**.
 3.  In the **second message**, write your request.
 4.  Receive your desired prompt.
