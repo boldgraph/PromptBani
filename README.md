@@ -17,6 +17,7 @@ Using advanced prompt engineering techniques, this system transforms simple user
   - [Freestyle Mode](#e-freestyle-prompt)
   - [Developer Modes (JSON/HTML)](#f-json-based-prompt)
 - [Usage Guide](#-how-to-use-promptbani)
+- [License & Commercial Terms](#-license--commercial-terms)
 - [Support](#-how-to-support-promptbani)
 - [Contact](#-contact-me)
 
@@ -101,6 +102,31 @@ You can use PromptBani in two ways:
 2.  In any chat bot (**ChatGPT**, **Claude**, **Gemini**, etc.) paste the prompt in the **first message**.
 3.  In the **second message**, write your request.
 4.  Receive your desired prompt.
+
+---
+
+## 📜 License & Commercial Terms
+
+PromptBani is released under the **System Prompt Usage License & Commercial Terms v1.0**.
+Copyright (c) 2025 AmirMohammadVazirBani.
+
+### ✅ Personal Use (Free)
+Permission is granted for **Personal Use** solely. You are free to use PromptBani for:
+*   Private experimentation and learning.
+*   Generating content for non-commercial personal projects.
+*   Direct interaction with AI models.
+
+### 🚫 Commercial & API Usage (Restricted)
+**Strictly Prohibited** without an active subscription. You **cannot** use this system prompt for:
+*   Embedding in **APIs, Apps, Bots, or Websites**.
+*   Powering **SaaS** (Software as a Service) platforms.
+*   Selling prompt engineering services based on this work.
+*   Automated pipelines for mass content generation.
+
+> **Commercial Subscription:** $10/month.
+> Please contact me to obtain a commercial license.
+
+**⚠️ Intellectual Property:** The logic, structure, and phrasing of this prompt are protected. Rephrasing or translating the work does not exempt users from these terms if the underlying logic is used commercially.
 
 ---
 
