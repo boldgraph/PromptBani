@@ -107,7 +107,7 @@ You can use PromptBani in two ways:
 
 ## 📜 License & Commercial Terms
 
-PromptBani is released under the **System Prompt Usage License & Commercial Terms v1.0**.
+PromptBani is released under the [**System Prompt Usage License & Commercial Terms v1.0**.](https://github.com/boldgraph/PromptBani/blob/main/LICENSE)
 Copyright (c) 2025 AmirMohammadVazirBani.
 
 ### ✅ Personal Use (Free)
