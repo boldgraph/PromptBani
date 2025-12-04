@@ -144,7 +144,7 @@ For financial support, you can use the following two methods (both inside and ou
 | Location | Method | Link |
 | :--- | :--- | :--- |
 | **Outside Iran** | Tether | [Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TLDuheyotfcfdcFk2RpF3h9FKy2LMQ1Yq6&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t) |
-| **Inside Iran** | IDPay | [idpay.ir/promptbani](https://idpay.ir/promptbani) |
+| **Inside Iran** | coffeebede | [coffeebede.com/promptbani](https://www.coffeebede.com/promptbani) |
 
 ---
 
