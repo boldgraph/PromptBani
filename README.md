@@ -103,7 +103,7 @@ You can use PromptBani in two ways:
 3.  In the **second message**, write your request.
 4.  Receive your desired prompt.
 
-###[YouTube video](https://youtu.be/Gw5tLkahtq8)
+[YouTube video](https://youtu.be/Gw5tLkahtq8)
 
 ---
 
