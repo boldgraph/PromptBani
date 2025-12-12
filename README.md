@@ -156,5 +156,6 @@ For financial support, you can use the following two methods (both inside and ou
 *   **GitHub:** [github.com/boldgraph](https://github.com/boldgraph)
 *   **Telegram:** [t.me/vazirbani](https://t.me/vazirbani)
 *   **Instagram:** [amirvazirbani](https://instagram.com/amirvazirbani)
+*   **Linkedin:** [AmirMohammadVazirBani](https://www.linkedin.com/in/amir-mohammad-vazirbani-7924532b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
   Made with ❤️ for the AI community
