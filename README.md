@@ -103,6 +103,20 @@ You can use PromptBani in two ways:
 3.  In the **second message**, write your request.
 4.  Receive your desired prompt.
 
+### Method 3: Browser Extension (Easiest)
+
+[#method-3-browser-extension-easiest](#method-3-browser-extension-easiest)
+
+Skip the copy-pasting entirely. The **PromptBani browser extension** adds a one-click **"✨ Optimize Prompt"** button directly next to the chat box on ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot, and DeepSeek.
+
+1. Type your rough idea into the chat box as usual.
+2. Click the **✨ Optimize Prompt** button that appears next to it.
+3. The optimized prompt is inserted directly into the chat box (or copied to your clipboard).
+
+No prompt-engineering knowledge needed, works with 8 optimization modes (Image, Video, Coding, Writing, JSON, HTML Tags, Freestyle, or Auto Detect), and supports 12 output languages.
+
+👉 **[Get the extension here](https://github.com/boldgraph/PromptBani-Extension)**
+
 [YouTube video](https://youtu.be/Gw5tLkahtq8)
 
 ---
