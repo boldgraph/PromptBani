@@ -139,7 +139,7 @@ Permission is granted for **Personal Use** solely. You are free to use PromptBan
 *   Selling prompt engineering services based on this work.
 *   Automated pipelines for mass content generation.
 
-> **Commercial Subscription:** $10/month.
+> **Commercial Subscription:** $3/month.
 > Please contact me to obtain a commercial license.
 
 **⚠️ Intellectual Property:** The logic, structure, and phrasing of this prompt are protected. Rephrasing or translating the work does not exempt users from these terms if the underlying logic is used commercially.
